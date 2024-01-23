@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LukeMo0n
-- 👀 I’m interested in games
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML,CSS and JS
 
 <!---
