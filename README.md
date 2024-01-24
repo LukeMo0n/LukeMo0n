@@ -2,7 +2,4 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML,CSS and JS
 
-<!---
-LukeMo0n/LukeMo0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/10eor.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
