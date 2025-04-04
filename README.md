@@ -8,7 +8,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,java,nodejs&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,java,nodejs,linux,mint&theme=dark&perline=3)](https://skillicons.dev)
 
 ---
 
